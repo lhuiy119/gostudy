@@ -1,4 +1,4 @@
-package gostudyX
+package gostudy
 
 import (
 	"fmt"
@@ -6,6 +6,6 @@ import (
 )
 
 func Out() {
-	fmt.Println("OutX")
+	fmt.Println("Out")
 	lib.Abc()
 }
