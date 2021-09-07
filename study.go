@@ -2,7 +2,7 @@ package gostudy
 
 import (
 	"fmt"
-	"github.com/hanson/gostudy/lib"
+	"github.com/lhuiy119/gostudy/lib"
 )
 
 func Out() {
